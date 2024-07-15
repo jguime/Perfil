@@ -1,6 +1,6 @@
-## Olá!
+# Olá!
 
-#### Eu sou João Guilherme, e estou em uma jornada de grande aprendizado na área de controle e automação com o objetivo de me tornar um profissional de sucesso.
+## Eu sou João Guilherme, e estou em uma jornada de grande aprendizado na área de controle e automação com o objetivo de me tornar um profissional de sucesso.
 
 <div align="center">
   <img width="400em" height="150em" src="https://github-readme-stats.vercel.app/api?username=jguime&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
